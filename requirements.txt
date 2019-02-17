@@ -1,0 +1,9 @@
+Markdown
+pelican
+jupyter
+ipython
+nbconvert
+beutifulsoup4
+ghp-import
+matplotlib
+

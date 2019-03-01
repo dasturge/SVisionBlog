@@ -21,12 +21,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('My Github', 'https://github.com/dasturge'),
+LINKS = (('About Me', 'about-me.html'),
+        ('Imaging', 'category/imaging.html'),
+        ('My Github', 'https://github.com/dasturge'),
         ('DCAN-labs Github', 'https://github.com/DCAN-Labs'),
         ('Python.org', 'http://python.org/'))
 
-# Social widget
-SOCIAL = (('github', 'https://github.com/dasturge'),
+# social widget
+social = (('github', 'https://github.com/dasturge'),
           ('another link', '#'))
 
 DEFAULT_PAGINATION = 10
